@@ -90,3 +90,13 @@
   color: #fff;
   list-style: none;
 }
+
+
+/* this is kungsik's added code */
+.recruit_list{
+  width: 100%;
+  height: 60px;
+  background-color: aqua;
+  border-radius: 30px;
+  text-align: center;
+}
